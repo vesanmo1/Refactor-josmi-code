@@ -1,6 +1,6 @@
 function showDeliveryCost(deliveryCost) {
 	document.getElementById('delivery-cost').innerText = `${deliveryCost}€`;
-	// esta es otra forma de hacer lo mismo: document.getElementById('delivery-cost').innerText = deliveryCost + '€';
+	// otra forma de hacer lo mismo: document.getElementById('delivery-cost').innerText = deliveryCost + '€';
 }
 ​
 function showTotal(totalPrice) {
