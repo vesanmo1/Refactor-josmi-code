@@ -28,7 +28,8 @@ body {
     margin-right: 3px;
 }
 
-.cart-row strong {
+.cart-row p {
+    font-weight: bolder;
     font-size: 1.2em;
 }
 
@@ -56,6 +57,7 @@ body {
     border-top: 1px solid #222;
 }
 
-.total strong {
+.total p {
+    font-weight: bolder;
     font-size: 1.5em;
 }
